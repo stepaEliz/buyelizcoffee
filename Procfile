@@ -1,1 +1,1 @@
-web: gunicorn.buyelizcoffee.wsgi --log-file -
+web: gunicorn buyelizcoffee.wsgi --log-file -
